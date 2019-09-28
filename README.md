@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Nikolas-Charalambidis/react-hooks.svg?branch=master)](https://travis-ci.org/Nikolas-Charalambidis/react-hooks)
+[![codebeat badge](https://codebeat.co/badges/ef7926ac-7753-4b89-9258-3785f41255f6)](https://codebeat.co/projects/github-com-nikolas-charalambidis-react-hooks-master)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Nikolas-Charalambidis/react-hooks/blob/master/LICENSE)
 
 # react-hooks
