@@ -2,9 +2,9 @@
 
 # react-hooks
 
-A sample React web application automatically built and deployed via Travis CI. This application demonstrates my first attempt of using React, hooks and makes it autodeployed with each push to the `master` branch (except the commits ending to `[skip ci]`). I made this repository as a tutorial for all who are interested. Obviously you are not allowed to depoly to this GitHub Page, yet you will know how to manage your own one :)
+A sample React web application automatically built and deployed via Travis CI. This application demonstrates my first attempt of using React, hooks and makes it autodeployed with each push to the `master` branch (except the commits ending to `[skip ci]` which skips the entire CI engine and is useful for `README.md` commits). 
 
-Disclaimer: I have no idea how exactly `package.json` with `yarn` works and I am fully acknowledged the entire process might be done in a way all simpler, straightener and securer. This includes the `GITHUB_TOKEN` usage which probably might be secured using `travis encrypt` and/or a custom script deployment used instead. This is the first way worked.
+Disclaimer: I have no idea how exactly `package.json` with `yarn` works and I am fully acknowledged the entire process might be done in a way all simpler, straightener and securer. This includes the `GITHUB_TOKEN` usage which probably might be secured using `travis encrypt` and/or a custom script deployment used instead. This is the first way worked and I made this repository as a tutorial for all who are interested. Obviously you are not allowed to deploy to this GitHub Page, yet you will know how to manage your own one :)
 
 ## [https://nikolas-charalambidis.github.io/react-hooks/](https://nikolas-charalambidis.github.io/react-hooks/)
 
