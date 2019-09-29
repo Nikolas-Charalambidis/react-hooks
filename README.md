@@ -2,7 +2,7 @@
 [![codebeat badge](https://codebeat.co/badges/ef7926ac-7753-4b89-9258-3785f41255f6)](https://codebeat.co/projects/github-com-nikolas-charalambidis-react-hooks-master)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Nikolas-Charalambidis/react-hooks/blob/master/LICENSE)
 
-# react-hooks
+# React Hooks
 
 A sample React web application automatically built and deployed via Travis CI. This application demonstrates my first attempt of using React, hooks and makes it autodeployed with each push to the `master` branch (except the commits ending to `[skip ci]` which skips the entire CI engine and is useful for `README.md` commits). 
 
